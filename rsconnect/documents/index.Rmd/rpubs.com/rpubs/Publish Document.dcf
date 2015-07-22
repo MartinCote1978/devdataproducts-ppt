@@ -1,0 +1,7 @@
+name: Publish Document
+account: rpubs
+server: rpubs.com
+bundleId:
+        https://api.rpubs.com/api/v1/document/93826/d26cf9e466be495ca11ca0cff3e290c4
+url: http://rpubs.com/martincote/93826
+when: 1437525562.95191
