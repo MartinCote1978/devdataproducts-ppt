@@ -17,7 +17,7 @@ This presentation is completed within the Coursera 'Developing Data Products' co
 
 1. The ShinyApp can be found at: (https://martincote.shinyapps.io/devdataproducts)[https://martincote.shinyapps.io/devdataproducts]
 2. The code (for both the app and this presentation) can be found on GitHub at: (https://github.com/MartinCote1978/devdataproducts-courseraproject.git)[https://github.com/MartinCote1978/devdataproducts-courseraproject.git]
-3. The presentation itself was the published on RPubs at: (http://rpubs.com/martincote/devdataproducts)[http://rpubs.com/martincote/devdataproducts]
+3. The presentation itself was the published on RPubs at: (http://martincote1978.github.io/devdataproducts-ppt/index.html)[http://martincote1978.github.io/devdataproducts-ppt/index.html]
 
 
 --- .class #id 
