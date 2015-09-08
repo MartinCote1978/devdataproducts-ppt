@@ -54,5 +54,5 @@ Steps:
 
 ## Original Statiscal Exploratory Analysis - Plot & Reference
 
-![plot of chunk unnamed-chunk-1](assets/fig/unnamed-chunk-1-1.png) 
+![plot of chunk unnamed-chunk-1](figure/unnamed-chunk-1-1.png) 
 
